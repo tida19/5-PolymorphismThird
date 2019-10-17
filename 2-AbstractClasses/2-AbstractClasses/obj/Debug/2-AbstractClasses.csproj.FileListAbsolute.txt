@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\5-Polymorphism\2-AbstractClasses\2-AbstractClasses\bin\Debug\2-AbstractClasses.exe.config
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\5-Polymorphism\2-AbstractClasses\2-AbstractClasses\bin\Debug\2-AbstractClasses.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\5-Polymorphism\2-AbstractClasses\2-AbstractClasses\bin\Debug\2-AbstractClasses.pdb
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\5-Polymorphism\2-AbstractClasses\2-AbstractClasses\obj\Debug\2-AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\5-Polymorphism\2-AbstractClasses\2-AbstractClasses\obj\Debug\2-AbstractClasses.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\5-Polymorphism\2-AbstractClasses\2-AbstractClasses\obj\Debug\2-AbstractClasses.pdb
